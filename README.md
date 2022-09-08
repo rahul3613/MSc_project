@@ -1,5 +1,8 @@
 # MSc_project
 
+### 09 Sept 2022
+* This week I completed chapter 2.1 (Going Classy) of the book.
+
 ### 26 Aug 2022
 * This week I completed chapter 2 of the book (Deep learning with PyTorch).
 
